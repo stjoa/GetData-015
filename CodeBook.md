@@ -1,3 +1,6 @@
+Codebook
+========
+
 Detailed information about the inital data set can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 In order to create the result data set the following steps have been performed for first the training data and then the test data.
